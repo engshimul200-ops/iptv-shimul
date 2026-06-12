@@ -1,0 +1,194 @@
+[
+  {
+    "id": "wc1",
+    "name": "FIFA World Cup 2026 - Live Feed",
+    "country": "International",
+    "category": "football",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/1/1e/2026_FIFA_World_Cup_logo.png",
+    "streamUrl": "https://tempfiles.com/s/streaming.m3u8",
+    "isLive": true,
+    "description": "বিশ্বকাপ ফুটবল ২০২৬ - সরাসরি সম্প্রচার",
+    "isWorldCup": true,
+    "tournament": "FIFA World Cup 2026"
+  },
+  {
+    "id": "fc1",
+    "name": "Premier League",
+    "country": "United Kingdom",
+    "category": "football",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Premier_League_Logo.png",
+    "streamUrl": "https://tempfiles.com/s/streaming.m3u8",
+    "isLive": true,
+    "description": "ইংল্যান্ড প্রিমিয়ার লিগ - ফুটবল"
+  },
+  {
+    "id": "fc2",
+    "name": "La Liga",
+    "country": "Spain",
+    "category": "football",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/LaLiga_logo.png",
+    "streamUrl": "https://tempfiles.com/s/streaming.m3u8",
+    "isLive": true,
+    "description": "স্পেনের লা লিগা ফুটবল"
+  },
+  {
+    "id": "fc3",
+    "name": "Bundesliga",
+    "country": "Germany",
+    "category": "football",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/d/df/Bundesliga_logo_%282015%29.png",
+    "streamUrl": "https://tempfiles.com/s/streaming.m3u8",
+    "isLive": true,
+    "description": "জার্মানির বুন্ডেসলিগা ফুটবল"
+  },
+  {
+    "id": "fc4",
+    "name": "Serie A",
+    "country": "Italy",
+    "category": "football",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/4/47/Serie_A_TIM_logo.png",
+    "streamUrl": "https://tempfiles.com/s/streaming.m3u8",
+    "isLive": true,
+    "description": "ইতালির সেরিয়া এ ফুটবল"
+  },
+  {
+    "id": "fc5",
+    "name": "Ligue 1",
+    "country": "France",
+    "category": "football",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/2/2d/Ligue_1_logo.png",
+    "streamUrl": "https://tempfiles.com/s/streaming.m3u8",
+    "isLive": true,
+    "description": "ফ্রান্সের লিগ ওয়ান ফুটবল"
+  },
+  {
+    "id": "fc6",
+    "name": "Champions League",
+    "country": "Europe",
+    "category": "football",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/b/ba/UEFA_Champions_League_logo_2.png",
+    "streamUrl": "https://tempfiles.com/s/streaming.m3u8",
+    "isLive": true,
+    "description": "ইউএফএ চ্যাম্পিয়ন্স লিগ"
+  },
+  {
+    "id": "cc1",
+    "name": "Star Sports 1",
+    "country": "India",
+    "category": "cricket",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/3/3a/Star_Sports_logo.png",
+    "streamUrl": "https://tempfiles.com/s/streaming.m3u8",
+    "isLive": true,
+    "description": "স্টার স্পোর্টস - ক্রিকেট লাইভ"
+  },
+  {
+    "id": "cc2",
+    "name": "Gazi TV Live Cricket",
+    "country": "Bangladesh",
+    "category": "cricket",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Gazi_TV_Logo.png",
+    "streamUrl": "https://tempfiles.com/s/streaming.m3u8",
+    "isLive": true,
+    "description": "গাজী টিভি - বাংলাদেশ ক্রিকেট"
+  },
+  {
+    "id": "cc3",
+    "name": "Sky Sports Cricket",
+    "country": "United Kingdom",
+    "category": "cricket",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Sky_Sports_logo.svg/200px-Sky_Sports_logo.svg.png",
+    "streamUrl": "https://tempfiles.com/s/streaming.m3u8",
+    "isLive": true,
+    "description": "স্কাই স্পোর্টস - ইংল্যান্ড ক্রিকেট"
+  },
+  {
+    "id": "tc1",
+    "name": "Tennis TV",
+    "country": "International",
+    "category": "tennis",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/5c/Tennis_tv_logo.jpg",
+    "streamUrl": "https://tempfiles.com/s/streaming.m3u8",
+    "isLive": true,
+    "description": "টেনিস টিভি - এটিপি ট্যুর"
+  },
+  {
+    "id": "tc2",
+    "name": "Eurosport Tennis",
+    "country": "Europe",
+    "category": "tennis",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/f/f6/Eurosport_logo.png",
+    "streamUrl": "https://tempfiles.com/s/streaming.m3u8",
+    "isLive": true,
+    "description": "ইউরোস্পোর্ট - আন্তর্জাতিক টেনিস"
+  },
+  {
+    "id": "bc1",
+    "name": "NBA TV",
+    "country": "USA",
+    "category": "basketball",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/NBA_logo.svg/200px-NBA_logo.svg.png",
+    "streamUrl": "https://tempfiles.com/s/streaming.m3u8",
+    "isLive": true,
+    "description": "এনবিএ - আমেরিকান বাস্কেটবল"
+  },
+  {
+    "id": "bc2",
+    "name": "Eurosport Basketball",
+    "country": "Europe",
+    "category": "basketball",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/f/f6/Eurosport_logo.png",
+    "streamUrl": "https://tempfiles.com/s/streaming.m3u8",
+    "isLive": true,
+    "description": "ইউরোস্পোর্ট - ইউরোপীয় বাস্কেটবল"
+  },
+  {
+    "id": "hc1",
+    "name": "NHL Network",
+    "country": "USA",
+    "category": "hockey",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/3/3e/NHL_Network_logo.png",
+    "streamUrl": "https://tempfiles.com/s/streaming.m3u8",
+    "isLive": true,
+    "description": "এনএইচএল - আমেরিকান হকি"
+  },
+  {
+    "id": "hc2",
+    "name": "Eurosport Hockey",
+    "country": "Europe",
+    "category": "hockey",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/f/f6/Eurosport_logo.png",
+    "streamUrl": "https://tempfiles.com/s/streaming.m3u8",
+    "isLive": true,
+    "description": "ইউরোস্পোর্ট - আন্তর্জাতিক হকি"
+  },
+  {
+    "id": "mc1",
+    "name": "F1 TV Pro",
+    "country": "International",
+    "category": "motorsports",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/6/6e/Formula_1_Logo.svg",
+    "streamUrl": "https://tempfiles.com/s/streaming.m3u8",
+    "isLive": true,
+    "description": "এফ১ - ফর্মুলা ওয়ান রেসিং"
+  },
+  {
+    "id": "mc2",
+    "name": "Sky Sports F1",
+    "country": "United Kingdom",
+    "category": "motorsports",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Sky_Sports_logo.svg/200px-Sky_Sports_logo.svg.png",
+    "streamUrl": "https://tempfiles.com/s/streaming.m3u8",
+    "isLive": true,
+    "description": "স্কাই স্পোর্টস - ফর্মুলা ওয়ান"
+  },
+  {
+    "id": "mc3",
+    "name": "Moto GP",
+    "country": "International",
+    "category": "motorsports",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/d/d8/MotoGP_logo.png",
+    "streamUrl": "https://tempfiles.com/s/streaming.m3u8",
+    "isLive": true,
+    "description": "মোটো জিপি - মটরসাইকেল রেসিং"
+  }
+]
