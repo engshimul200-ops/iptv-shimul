@@ -1,0 +1,133 @@
+name: shimul_baral_tv
+description: Professional Bengali IPTV and Live TV Application - Watch Live Sports and TV Channels Worldwide.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # Firebase
+  firebase_core: ^2.24.0
+  firebase_auth: ^4.14.0
+  firebase_firestore: ^4.13.0
+  firebase_storage: ^11.5.0
+  firebase_messaging: ^14.7.0
+  firebase_analytics: ^10.7.0
+  
+  # State Management
+  provider: ^6.0.0
+  riverpod: ^2.4.0
+  hooks_riverpod: ^2.4.0
+  flutter_hooks: ^4.1.0
+  
+  # Navigation & Routing
+  go_router: ^12.0.0
+  
+  # HTTP & Networking
+  http: ^1.1.0
+  dio: ^5.3.0
+  
+  # Video Player - HLS Support
+  video_player: ^2.7.0
+  chewie: ^1.7.0
+  better_player: ^0.0.85
+  vlc_player: ^7.4.0
+  
+  # Storage
+  shared_preferences: ^2.2.0
+  hive: ^2.2.0
+  hive_flutter: ^1.1.0
+  path_provider: ^2.1.0
+  
+  # UI & Design
+  google_fonts: ^6.1.0
+  intl: ^0.19.0
+  animate_do: ^3.1.0
+  shimmer: ^3.0.0
+  lottie: ^2.5.0
+  flutter_staggered_grid_view: ^0.7.0
+  badges: ^3.1.0
+  
+  # Image Loading & Caching
+  cached_network_image: ^3.3.0
+  flutter_cache_manager: ^3.3.0
+  
+  # Notifications
+  flutter_local_notifications: ^15.1.0
+  awesome_notifications: ^0.8.1
+  
+  # Device Info
+  device_info_plus: ^9.1.0
+  package_info_plus: ^5.0.0
+  
+  # Connectivity
+  connectivity_plus: ^5.1.0
+  
+  # URL Launcher
+  url_launcher: ^6.2.0
+  
+  # Logging
+  logger: ^2.1.0
+  
+  # Utilities
+  uuid: ^4.0.0
+  equatable: ^2.0.0
+  get: ^4.6.0
+  intl_phone_number_input: ^0.7.2
+  permission_handler: ^11.4.0
+  
+  # JSON Serialization
+  json_serializable: ^6.7.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  
+  flutter_lints: ^3.0.0
+  build_runner: ^2.4.0
+  hive_generator: ^2.0.0
+  json_serializable: ^6.7.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/images/
+    - assets/logos/
+    - assets/icons/
+    - assets/animations/
+    - assets/flags/
+    - assets/json/channels.json
+    - assets/json/sports_channels.json
+  
+  fonts:
+    - family: Kalpurush
+      fonts:
+        - asset: assets/fonts/Kalpurush.ttf
+          weight: 400
+        - asset: assets/fonts/Kalpurush-Bold.ttf
+          weight: 700
+    - family: SiyamRupali
+      fonts:
+        - asset: assets/fonts/SiyamRupali.ttf
+          weight: 400
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Roboto-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Roboto-Medium.ttf
+          weight: 500
+
+flutter_launcher_icons:
+  ios: true
+  android: true
+  image_path_ios: "assets/images/app_icon.png"
+  image_path_android: "assets/images/app_icon.png"
